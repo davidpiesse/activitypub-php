@@ -43,8 +43,7 @@
   "require-dev": {
     "ext-pdo": "*",
     "cache/array-adapter": "0.4.2",
-    "phpunit/dbunit": "^2.0",
-    "phpunit/phpunit": "^4.0"
+    "phpunit/dbunit": "^2.0"
   },
   "autoload": {
     "psr-4": {
